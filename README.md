@@ -39,7 +39,7 @@ python app.py
 
 ## Model Training
 
-The model used in this application is a simple CNN trained on the MNIST dataset. The training code is available in the Jupyter notebook train_model.ipynb. To train the model:
+The model used in this application is a simple CNN trained on the MNIST dataset. The training code is available in the Jupyter notebook mnist-dataset.ipynb. To train the model:
 
-- Open and run the train_model.ipynb notebook in the master branch.
+- Open and run the mnist-dataset.ipynb notebook in the master branch.
 - The trained model (handwritten_digit_cnnmodel.h5) will be saved in the master branch.
